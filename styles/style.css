@@ -19,7 +19,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h5 {
   font-weight: 500;
   color: var(--main-font-color);
 }
@@ -96,4 +97,24 @@ h2 {
 .projectsThumbNail {
   border-radius: 20px;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+/* Contact Me */
+
+.contactMe {
+  background-color: var(--slateGray-accentColor-main);
+}
+
+/* Modal */
+
+.modal-content {
+  background-color: var(--xiketic-main-BG);
+}
+
+/* Footer */
+
+footer{
+  background-color: var(--xiketic-main-BG);
+  height: 10vh;
+  color: var(--main-font-color)
 }
