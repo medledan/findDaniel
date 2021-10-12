@@ -113,8 +113,12 @@ h5 {
 
 /* Footer */
 
-footer{
+footer {
   background-color: var(--xiketic-main-BG);
-  height: 10vh;
-  color: var(--main-font-color)
+  color: var(--main-font-color);
+}
+
+.githubIcon {
+  background-color: #333;
+  margin-left: 1rem;
 }
