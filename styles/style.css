@@ -1,8 +1,3 @@
-* html {
-  box-sizing: border-box;
-  font-size: 16px;
-}
-
 :root {
   /* Color Palette */
   --xiketic-main-BG: #0f0f0f;
@@ -11,6 +6,11 @@
 
   /* Typography */
   --typography: "Roboto", sans-serif;
+}
+
+* html {
+  box-sizing: border-box;
+  font-size: 16px;
 }
 
 /* Main Selectors */
